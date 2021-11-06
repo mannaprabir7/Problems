@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @mannaprabir7
-- 👀 I’m interested in twchnology
-- 🌱 I’m currently learning data structure and algorithn
-- 💞️ I’m looking to collaborate on a 
+Welcome 
+- 👋 Hi, I’m PRABIR MANNA
+- 👀 I’m interested in CODING
+- 🌱 I’m currently learning data structure and algorithm
+- 💞️ I’m looking to collaborate on a major project
 - 📫 How to reach me ...
 
 <!---
