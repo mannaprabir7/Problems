@@ -6,6 +6,6 @@ Welcome
 - 📫 How to reach me ...
 
 <!---
-mannaprabir7/mannaprabir7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mannaprabir7/Problems is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
