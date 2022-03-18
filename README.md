@@ -3,7 +3,7 @@ Welcome
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning data structure and algorithm
 - 💞️ I’m looking to collaborate on a major project
-- 📫 How to reach me ...
+- 📫 How to reach me ...click -> https://www.linkedin.com/in/mannaprabir7
 
 <!---
 mannaprabir7/Problems is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
