@@ -1,0 +1,40 @@
+/*
+	
+	Following is the structure used to represent the Binary Tree Node
+
+	class BinaryTreeNode<T> {
+		T data;
+		BinaryTreeNode<T> left;
+		BinaryTreeNode<T> right;
+
+		public BinaryTreeNode(T data) {
+			this.data = data;
+			this.left = null;
+			this.right = null;
+		}
+	}
+
+ */
+
+public class Solution {
+
+	public static int countNodesGreaterThanX(BinaryTreeNode<Integer> root, int x) {
+		//Your code goes here
+		// 1. checking wheather root is null or not, if null then return 0 and if not null then skip this and run next steps
+		if (root == null) return 0;
+
+		// when root is not null, then check if root data is greather than or not; if grater than count will be increased accordingly
+		int count = 0;
+		if (root.data > x) count ++;
+
+		// samething like above here we traverse left and right side node and updates the count accordingly
+		//this is for left node
+		count += countNodesGreaterThanX(root.left, x);
+		// this is for right node
+		count += countNodesGreaterThanX(root.right, x);
+
+		// finally return the count
+		return count;
+	}
+
+}
